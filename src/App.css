@@ -1,3 +1,10 @@
 *{
-  box-sizing: border-box;
+ text-decoration: none!important;
+ box-sizing: border-box;
+
+
 }
+.logo{
+	width:100%;
+}
+
